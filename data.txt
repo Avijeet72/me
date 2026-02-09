@@ -1,0 +1,25 @@
+Full Name : Avijeet Kumar Roy
+Phone Number: +91 9679403645
+whatsapp: +91 9679403645
+Email ID:avikum072@gmail.com
+
+City / State: Vadodara, Gujarat, India
+
+LinkedIn / GitHub / Portfolio (থাকলে):https://github.com/Avijeet72
+linkedin: www.linkedin.com/in/avijeet-kumar-roy
+facebook:https://www.facebook.com/profile.php?id=100012917976003
+X:https://x.com/AvijeetKum2005
+
+Date of bairth:01-12-2005
+University: Parul University (2024-2028)
+
+College :  Hazipur College (2021-2022)
+School: Ghidob High School(2016-2020)
+Programming Language   : C#, C++, Python, Java 
+Web Technologies  : HTML, CSS, JavaScript
+Framework  : Bootstrap, Laravel
+ DBMS  : MySQL 
+Development Tools  : Visual Studio, Notepad++, PyCharm, Antigravity 
+Version Control  : Git, GitHub 
+Operating Systems  : Windows, Linux  
+Others  : MS Word,  MS Excel
